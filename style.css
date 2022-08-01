@@ -1,0 +1,17 @@
+body{
+    font-family: Gill Sans;
+}
+
+.test_image_and_result{
+    text-align: center;
+    background-color: grey;
+    margin-right: 3;
+    border-radius: 10px;
+    float:0;
+}
+
+.mobile{
+    width: 300px;
+    height: 50px;
+    font-size: 27px;
+}
